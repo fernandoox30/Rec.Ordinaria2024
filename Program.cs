@@ -1,4 +1,5 @@
-﻿using Refuerzo2024.View.Dashboard;
+﻿using Refuerzo2024.View.Asignaturas;
+using Refuerzo2024.View.Dashboard;
 using System;
 using System.Windows.Forms;
 
@@ -14,7 +15,7 @@ namespace Refuerzo2024
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ViewDashboard());
+            Application.Run(new ViewAsigntura());
         }
     }
 }
