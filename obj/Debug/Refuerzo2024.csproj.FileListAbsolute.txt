@@ -1,0 +1,11 @@
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\bin\Debug\Refuerzo2024.exe.config
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\bin\Debug\Refuerzo2024.exe
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\bin\Debug\Refuerzo2024.pdb
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.csproj.AssemblyReference.cache
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.Properties.Resources.resources
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.View.Dashboard.ViewDashboard.resources
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.csproj.GenerateResource.cache
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.csproj.CoreCompileInputs.cache
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.exe
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.pdb
+C:\Users\Docente\Documents\Prácticas\Refuerzo ordinario\Refuerzo2024\obj\Debug\Refuerzo2024.View.Estudiantes.ViewEstudiantes.resources
